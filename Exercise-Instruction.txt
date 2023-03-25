@@ -10,4 +10,4 @@ Exercise Instrucion:
   g. Run those Yaml files in Kubernetes server
 
 2. Create Ingress to expose Wordpress service and Mysql service
-3. Apply TLS for those service with Cert-Manager + Let's Encrypt
+3. Apply TLS for those services with Cert-Manager + Let's Encrypt
