@@ -49,4 +49,4 @@ spec:
       # protocol: TCP
   selector:
     app: wordpress-app
-  type: ClusterIP
+  type: NodePort
